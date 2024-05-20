@@ -1,0 +1,27 @@
+
+   ____            _        _   _____ _ _ _            
+  |  _ \ __ _  ___| | _____| |_|  ___(_) | |_ ___ _ __ 
+  | |_) / _` |/ __| |/ / _ \ __| |_  | | | __/ _ \ '__|
+  |  __/ (_| | (__|   <  __/ |_|  _| | | | ||  __/ |   
+  |_|   \__,_|\___|_|\_\___|\__|_|   |_|_|\__\___|_| 
+
+    
+  License GPL   Version: 0.1   Email: hackthus@gmail.com  
+                                                     
+           Create By Arnold Edwin / H@ckthus
+
+ OPTIONS :
+ 
+ --help               * Pour afficher le menu d'aide
+ --rapport  	      * Pour générer un rapport 
+   Port		      * pour traiter des opérations sur un ou plusieurs ports spécifique/s 
+   		             Ex : 22  ou 22,80 
+   IP                 * Pour traiter des opérations sur des adresses Ip <xxxx.xxxx.xxxx.xxxx> ou nom de domain <xxxx.com>
+   		             Ex : 192.168.x.x  ou hackthus.local
+  Réseau              * Pour des traitement du trafic au niveau du réseau 
+  		             Ex: 192.168.x.x où 192.168.0.0/24
+  Site Web            * Pour des traitement du trafic au niveau des sites web
+  			     Ex: www.google.com
+  Icmp                * Pour les traitement au niveau du protocole ICMP
+  /<mot>              * Pour rechercher un mot précis 
+  q où :q             * Pour quitter le menu d'aide
